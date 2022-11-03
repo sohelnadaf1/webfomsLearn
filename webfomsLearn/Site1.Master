@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="webfomsLearn.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="main">
+
+            <div class="header">
+
+            <h1>
+                this is header file
+            </h1>
+        </div>
+            <div class="navbar">
+               <asp:HyperLink ID="HyperLink1"  runat="server" NavigateUrl="~/Contact.aspx">Contact</asp:HyperLink>
+
+            </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+            <div class="footer">
+                <h2>all prop reserverd &copy;</h2>
+            </div>
+            </div>
+    </form>
+</body>
+</html>

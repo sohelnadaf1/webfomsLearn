@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webfomsLearn", "webfomsLearn\webfomsLearn.csproj", "{259EDCA0-F4D6-42C5-99AF-74F0D69C8DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validationControls", "validationControls\validationControls.csproj", "{BB3B51B8-CF82-4DF0-8DB2-E206A10768C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewStateDemo", "viewStateDemo\viewStateDemo.csproj", "{D4123691-74AA-421C-B61C-A06380322BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionState", "SessionState\SessionState.csproj", "{1CCA5AD4-48A3-4974-A9B2-E2D1896C6A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicaionStateDemo", "ApplicaionStateDemo\ApplicaionStateDemo.csproj", "{10634692-7C11-432F-A623-852E340D9543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryStringDemo", "QueryStringDemo\QueryStringDemo.csproj", "{B0B6AF8B-CCB3-4573-AF01-F408355D751C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{4FA434B0-A5E1-41C9-A227-F65541469A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259EDCA0-F4D6-42C5-99AF-74F0D69C8DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259EDCA0-F4D6-42C5-99AF-74F0D69C8DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259EDCA0-F4D6-42C5-99AF-74F0D69C8DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259EDCA0-F4D6-42C5-99AF-74F0D69C8DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3B51B8-CF82-4DF0-8DB2-E206A10768C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3B51B8-CF82-4DF0-8DB2-E206A10768C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3B51B8-CF82-4DF0-8DB2-E206A10768C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3B51B8-CF82-4DF0-8DB2-E206A10768C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4123691-74AA-421C-B61C-A06380322BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4123691-74AA-421C-B61C-A06380322BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4123691-74AA-421C-B61C-A06380322BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4123691-74AA-421C-B61C-A06380322BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCA5AD4-48A3-4974-A9B2-E2D1896C6A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCA5AD4-48A3-4974-A9B2-E2D1896C6A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCA5AD4-48A3-4974-A9B2-E2D1896C6A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCA5AD4-48A3-4974-A9B2-E2D1896C6A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10634692-7C11-432F-A623-852E340D9543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10634692-7C11-432F-A623-852E340D9543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10634692-7C11-432F-A623-852E340D9543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10634692-7C11-432F-A623-852E340D9543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B6AF8B-CCB3-4573-AF01-F408355D751C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B6AF8B-CCB3-4573-AF01-F408355D751C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B6AF8B-CCB3-4573-AF01-F408355D751C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B6AF8B-CCB3-4573-AF01-F408355D751C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B322A058-E762-44FE-8291-07F8D92D8F57}
+	EndGlobalSection
+EndGlobal
