@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryStringDemo", "QueryStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{4FA434B0-A5E1-41C9-A227-F65541469A30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_WITH_GRIDVIEW", "CRUD_WITH_GRIDVIEW\CRUD_WITH_GRIDVIEW.csproj", "{8462A638-0FE9-4A69-B205-267992B11910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA434B0-A5E1-41C9-A227-F65541469A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8462A638-0FE9-4A69-B205-267992B11910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8462A638-0FE9-4A69-B205-267992B11910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8462A638-0FE9-4A69-B205-267992B11910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8462A638-0FE9-4A69-B205-267992B11910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
